@@ -1,4 +1,5 @@
 <a name="Hello-Rails-Bak-End"></a>
+Front-end react project link https://github.com/karam084/hello-react-front-end/pull/1
 
 REQUIRED SECTIONS:
 - Table of Contents
@@ -112,9 +113,9 @@ REQUIRED SECTIONS:
 ### Setup
 
 - Download the Zip file or Clone the repo with:
-   - git clone https://github.com/karam084/hello-rails-react
+   - git clone https://github.com/karam084/hello-rails-back-end
    - To access the project directory
-   - cd hello-rails-reac
+   - cd hello-rails-back-end
 
 ### Install
 
@@ -180,7 +181,7 @@ or $ spec
 
 CContributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/karam084/hello-rails-react/issues).
+Feel free to check the [issues page](https://github.com/karam084/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
