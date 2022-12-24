@@ -13,16 +13,6 @@ REQUIRED SECTIONS:
 - Acknowledgements
 - License
 
-
-<div align="center">
-
-  <img src="./app/assets/images/recipe_erd_2_members.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Hello-Rails-Bak-End</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
