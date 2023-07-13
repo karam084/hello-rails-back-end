@@ -41,7 +41,7 @@ REQUIRED SECTIONS:
 
 # 📖 Hello-Rails-Bak-End <a name="about-project"></a>
 
-> The Ruby on Rails project that create back end rails app.
+> The Ruby on Rails project that creates a back-end rails app.
 
 **Hello-Rails-Bak-End** is a...
 
@@ -110,7 +110,7 @@ REQUIRED SECTIONS:
 ### Install
 
  - bundle install
- - rails db:migrate
+ - rails db: migrate
 
 ### Usage
 
@@ -124,13 +124,13 @@ To run the project, execute the following command:
 Run the following command to install all dependencies.
 
 $ bundle install
-$ code .
+$ code.
 
 ## Database
 To create your local Database
 
-$ rails db:create
-$ rails db:migrate
+$ rails db: create
+$ rails db: migrate
 
 ### Run tests
 To install rspec, in the terminal kindly run this command
